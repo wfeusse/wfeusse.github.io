@@ -1,3 +1,6 @@
+#headerwrap h1 {
+    font-size:100px;
+}
 #cf {
     /*  background: #2f2f2f; */
     /* background: #e0e0e0; */
@@ -25,3 +28,21 @@
     margin: 0;
     padding: 0;
 }
+#doveImg {
+    z-index: 2;
+    position: relative;
+    right: 150px;
+    top: 60px;
+    float: right;
+    width: 3em;
+}
+.serviceSvg {
+    width: 100px;
+    height: auto;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+
+.images {
+  z-index: 1;
+}  
