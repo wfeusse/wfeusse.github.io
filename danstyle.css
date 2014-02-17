@@ -45,4 +45,10 @@
 
 .images {
   z-index: 1;
-}  
+} 
+ul {
+    text-align: left;
+} 
+.groupHeader {
+    font-weight: 400;
+}
